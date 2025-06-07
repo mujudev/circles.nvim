@@ -2,62 +2,62 @@
 local palette = {
 
     -- Bg Shades
-    sumiInk0 = "#16161D",
-    sumiInk1 = "#181820",
-    sumiInk2 = "#1a1a22",
-    sumiInk3 = "#1F1F28",
-    sumiInk4 = "#2A2A37",
-    sumiInk5 = "#363646",
-    sumiInk6 = "#54546D", --fg
+    sumiInk0 = "#181014",
+    sumiInk1 = "#1f1419",
+    sumiInk2 = "#1f1726",
+    sumiInk3 = "#21182a",
+    sumiInk4 = "#2e2438",
+    sumiInk5 = "#392c44",
+    sumiInk6 = "#433550", --fg
 
     -- Popup and Floats
-    waveBlue1 = "#223249",
-    waveBlue2 = "#2D4F67",
+    waveBlue1 = "#212f40",
+    waveBlue2 = "#2f4b6b",
 
     -- Diff and Git
-    winterGreen = "#2B3328",
-    winterYellow = "#49443C",
-    winterRed = "#43242B",
-    winterBlue = "#252535",
-    autumnGreen = "#76946A",
-    autumnRed = "#C34043",
-    autumnYellow = "#DCA561",
+    winterGreen = "#36413b",
+    winterYellow = "#7d633f",
+    winterRed = "#bc5c7b",
+    winterBlue = "#263240",
+    autumnGreen = "#8bb78d",
+    autumnRed = "#ff404e",
+    autumnYellow = "#b6951f",
 
     -- Diag
-    samuraiRed = "#E82424",
-    roninYellow = "#FF9E3B",
-    waveAqua1 = "#6A9589",
-    dragonBlue = "#658594",
+    samuraiRed = "#ce1435",
+    roninYellow = "#f9c118",
+    waveAqua1 = "#30786d",
+    dragonBlue = "#81c5d0",
 
     -- Fg and Comments
-    oldWhite = "#C8C093",
-    fujiWhite = "#DCD7BA",
-    fujiGray = "#727169",
+    oldWhite = "#d1d6bf",
+    fujiWhite = "#fcf5e9",
+    fujiGray = "#414143",
 
-    oniViolet = "#957FB8",
-    oniViolet2 = "#b8b4d0",
-    crystalBlue = "#7E9CD8",
-    springViolet1 = "#938AA9",
-    springViolet2 = "#9CABCA",
-    springBlue = "#7FB4CA",
-    lightBlue = "#A3D4D5", -- unused yet
-    waveAqua2 = "#7AA89F", -- improve lightness: desaturated greenish Aqua
+    oniViolet = "#b6b7df",
+    oniViolet2 = "#7573e1",
+    crystalBlue = "#53c5e7",
+    springViolet1 = "#d8c3ef",
+    springViolet2 = "#cba1f7",
+    springBlue = "#1135c3",
+    lightBlue = "#94dde4", -- unused yet
+    waveAqua2 = "#599cbf", -- improve lightness: desaturated greenish Aqua
 
     -- waveAqua2  = "#68AD99",
     -- waveAqua4  = "#7AA880",
     -- waveAqua5  = "#6CAF95",
     -- waveAqua3  = "#68AD99",
 
-    springGreen = "#98BB6C",
-    boatYellow1 = "#938056",
-    boatYellow2 = "#C0A36E",
-    carpYellow = "#E6C384",
+    springGreen = "#addfb7",
+    boatYellow1 = "#826927",
+    boatYellow2 = "#d0ac49",
+    carpYellow = "#fde78d",
 
-    sakuraPink = "#D27E99",
-    waveRed = "#E46876",
-    peachRed = "#FF5D62",
-    surimiOrange = "#FFA066",
-    katanaGray = "#717C7C",
+    sakuraPink = "#efb3c2",
+    waveRed = "#ff68bd",
+    peachRed = "#ec4665",
+    surimiOrange = "#d15222",
+    katanaGray = "#485d6e",
 
     dragonBlack0 = "#0d0c0c",
     dragonBlack1 = "#12120f",
