@@ -4,20 +4,20 @@ local palette = {
 	-- Bg Shades
 	sumiInk0 = "#1b1819",
 	sumiInk1 = "#201d1e",
-	sumiInk2 = "#292426",
-	sumiInk3 = "#302c2e",
-	sumiInk4 = "#3b3538",
-	sumiInk5 = "#463f42",
-	sumiInk6 = "#564e51", --fg
+	sumiInk2 = "#282526",
+	sumiInk3 = "#2f2d2e",
+	sumiInk4 = "#393738",
+	sumiInk5 = "#444142",
+	sumiInk6 = "#535051", --fg
 
 	-- Popup and Floats
 	waveBlue1 = "#212f40",
 	waveBlue2 = "#2f4b6b",
 
 	-- Diff and Git
-	winterGreen = "#36413b",
-	winterYellow = "#7d633f",
-	winterRed = "#bc5c7b",
+	winterGreen = "#364438",
+	winterYellow = "#a28f76",
+	winterRed = "#5b2536",
 	winterBlue = "#394b60",
 	autumnGreen = "#8bb78d",
 	autumnRed = "#ff404e",
@@ -51,7 +51,7 @@ local palette = {
 	springGreen = "#addfb7",
 	boatYellow1 = "#685e40",
 	boatYellow2 = "#b9a15f",
-	carpYellow = "#e8d9a1",
+	carpYellow = "#dcd2ac",
 
 	sakuraPink = "#efb3c2",
 	waveRed = "#ff68bd",
