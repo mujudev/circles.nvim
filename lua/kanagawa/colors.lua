@@ -2,13 +2,13 @@
 local palette = {
 
 	-- Bg Shades
-	sumiInk0 = "#1d1619",
-	sumiInk1 = "#231a1e",
-	sumiInk2 = "#291e23",
-	sumiInk3 = "#32252b",
-	sumiInk4 = "#382930",
-	sumiInk5 = "#413038",
-	sumiInk6 = "#513e47", --fg
+	sumiInk0 = "#1b1819",
+	sumiInk1 = "#201d1e",
+	sumiInk2 = "#292426",
+	sumiInk3 = "#312b2e",
+	sumiInk4 = "#3b3538",
+	sumiInk5 = "#463e42",
+	sumiInk6 = "#564d51", --fg
 
 	-- Popup and Floats
 	waveBlue1 = "#212f40",
@@ -50,13 +50,13 @@ local palette = {
 
 	springGreen = "#addfb7",
 	boatYellow1 = "#826927",
-	boatYellow2 = "#d0ac49",
-	carpYellow = "#fde78d",
+	boatYellow2 = "#b9a15f",
+	carpYellow = "#e8d9a1",
 
 	sakuraPink = "#efb3c2",
 	waveRed = "#ff68bd",
 	peachRed = "#ec4665",
-	surimiOrange = "#d15222",
+	surimiOrange = "#d16622",
 	katanaGray = "#485d6e",
 
 	dragonBlack0 = "#0d0c0c",
