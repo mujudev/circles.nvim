@@ -18,7 +18,7 @@ local palette = {
 	winterGreen = "#36413b",
 	winterYellow = "#7d633f",
 	winterRed = "#bc5c7b",
-	winterBlue = "#263240",
+	winterBlue = "#394b60",
 	autumnGreen = "#8bb78d",
 	autumnRed = "#ff404e",
 	autumnYellow = "#b6951f",
@@ -32,7 +32,7 @@ local palette = {
 	-- Fg and Comments
 	oldWhite = "#d1d6bf",
 	fujiWhite = "#fcf5e9",
-	fujiGray = "#414143",
+	fujiGray = "#4b4b4e",
 
 	oniViolet = "#b6b7df",
 	oniViolet2 = "#7573e1",
@@ -49,7 +49,7 @@ local palette = {
 	-- waveAqua3  = "#68AD99",
 
 	springGreen = "#addfb7",
-	boatYellow1 = "#826927",
+	boatYellow1 = "#685e40",
 	boatYellow2 = "#b9a15f",
 	carpYellow = "#e8d9a1",
 
