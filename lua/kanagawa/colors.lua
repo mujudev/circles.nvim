@@ -5,10 +5,10 @@ local palette = {
 	sumiInk0 = "#1b1819",
 	sumiInk1 = "#201d1e",
 	sumiInk2 = "#292426",
-	sumiInk3 = "#312b2e",
+	sumiInk3 = "#302c2e",
 	sumiInk4 = "#3b3538",
-	sumiInk5 = "#463e42",
-	sumiInk6 = "#564d51", --fg
+	sumiInk5 = "#463f42",
+	sumiInk6 = "#564e51", --fg
 
 	-- Popup and Floats
 	waveBlue1 = "#212f40",
